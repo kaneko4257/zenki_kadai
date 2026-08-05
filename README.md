@@ -1,7 +1,7 @@
 # Web掲示板
 ## 手順書
 ### 
-**1**:https://github.com/kaneko4257/zenki_kadai.git
+**1**:https://github.com/kaneko4257/zenki_kadai.gitでクローンしたリポジトリを登録
 
 　　Docker Compose で起動
 

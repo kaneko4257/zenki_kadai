@@ -12,7 +12,7 @@
 
 **3**:Docker Compose で起動
 
-**4**:<ins>docker build up</ins>(念のため)・<ins>docker compose up</ins>をする
+**4**:<ins>docker compose up</ins>をする
 
 
 **5**:ブラウザから <ins>http://(あなたのip)/bbsimagetest.php</ins> にアクセス

@@ -11,4 +11,4 @@
 **2**:<ins>docker compose up</ins>をする
 
 
-**3**:ブラウザから <ins>http://(あなたのip)/bbs.php</ins> にアクセス
+**3**:ブラウザから <ins>http://(あなたのip)/bbsimagetest.php</ins> にアクセス

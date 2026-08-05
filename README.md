@@ -5,7 +5,7 @@
 
 　でSSHの方をコピーし、リポジトリを登録
 
-**2**:<ins>git push origin main</ins>でリモートリポジトリへpush
+**2**:<ins>git push origin main</ins>でリモートリポジトリに反映させる
 
 
 **3**:Docker Compose で起動

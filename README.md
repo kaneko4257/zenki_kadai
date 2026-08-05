@@ -6,7 +6,7 @@
 　　Docker Compose で起動
 
 
-**2**:<ins>docker compose up</ins>
+**2**:<ins>docker compose up</ins>をする
 
 
-**3**:ブラウザから http://(あなたのip)/bbs.php にアクセス
+**3**:ブラウザから <ins>http://(あなたのip)/bbs.php</ins> にアクセス

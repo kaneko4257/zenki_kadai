@@ -5,10 +5,10 @@
 
 　でSSHの方をコピーし、リポジトリを登録
 
-**2**git push origin main
+**2**:git push origin main
 
 
-**3**Docker Compose で起動
+**3**:Docker Compose で起動
 
 **4**:<ins>docker build up</ins>・<ins>docker compose up</ins>をする
 

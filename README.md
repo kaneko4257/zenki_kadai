@@ -3,12 +3,14 @@
 ### 
 **1**:https://github.com/kaneko4257/zenki_kadai.git
 
-　でクローンしたリポジトリを登録
+　でSSHの方をコピーし、リポジトリを登録
 
-　Docker Compose で起動
-
-
-**2**:<ins>docker build up</ins>・<ins>docker compose up</ins>をする
+**2**git push origin main
 
 
-**3**:ブラウザから <ins>http://(あなたのip)/bbsimagetest.php</ins> にアクセス
+**3**Docker Compose で起動
+
+**4**:<ins>docker build up</ins>・<ins>docker compose up</ins>をする
+
+
+**5**:ブラウザから <ins>http://(あなたのip)/bbsimagetest.php</ins> にアクセス

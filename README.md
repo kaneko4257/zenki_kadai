@@ -5,7 +5,7 @@
 
 　でSSHの方をコピーして以下のコマンド打ってリポジトリを登録
 
- <ins>git remote add origin (コピーしたリポジトリURL)</ins>
+  <ins>git remote add origin (コピーしたリポジトリURL)</ins>
 
 **2**:<ins>git push origin main</ins>でリモートリポジトリに反映させる
 

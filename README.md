@@ -3,7 +3,7 @@
 ### 
 **1**:https://github.com/kaneko4257/zenki_kadai.git
 
-　でSSHの方をコピーし、リポジトリを登録
+　へ行き、SSHの方をコピーしてリポジトリを登録
 
 **2**:<ins>git push origin main</ins>でリモートリポジトリに反映させる
 
